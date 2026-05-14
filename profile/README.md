@@ -1,139 +1,172 @@
-# 🚀 BeyondNet Code
+# BeyondNet Code
 
-> 🌐 *Read this in [Español](README.es.md)*
+> Read this in [Español](README.es.md)
 
-> *Open Source. Modern Architecture. Innovation Without Limits.*
-
----
-
-## 📖 About Us
-
-**BeyondNet Code** is an organization dedicated to the collaborative creation of high-quality code, architecture documentation, and software development under open licenses. We believe in the power of free software and the global developer community.
-
-We are a space where technology professionals can:
-- ✨ Contribute to innovative projects
-- 🏗️ Design scalable architectures
-- 📚 Document best practices
-- 🤝 Collaborate without borders
+> Open Source. Modern Architecture. Innovation Without Limits.
 
 ---
 
-## 📜 Licenses
+## About Us
 
-Our projects operate under progressive licenses:
+**BeyondNet Code** is an open technology organization focused on building high-quality source code, architecture documentation, engineering references, and software development assets under open licenses.
 
-| License | Description |
-|---------|-------------|
-| 🔓 **MIT** | Maximum freedom with attribution |
-| 🎨 **Creative Commons** | Collaborative content & documentation |
-| 🌐 **Open Source** | Transparency & community-driven |
+Our goal is to help the technical community design, document, and evolve modern software systems with professional architectural judgment.
+
+We work especially around:
+
+- Modern software architecture
+- Modular monoliths and sustainable microservices
+- Clean Architecture and Hexagonal Architecture
+- Pragmatic Domain-Driven Design
+- DevOps, observability, and automation
+- AI-assisted engineering
+- Open technical documentation
 
 ---
 
-## 💻 Tech Stack
+## Featured Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **ARC32 Progressive Monolith** | Open reference for building evolutionary products, from simple monoliths to modular monoliths and sustainable microservices. | https://github.com/beyondnetcode/arc32_progresive_monolith |
+| **UMS** | Reference system for user management, identity, authorization, and multi-tenant governance. | https://github.com/beyondnetcode/ums |
+
+---
+
+## Architectural Vision
+
+We believe modern products should be able to start simple, grow with discipline, and evolve without traumatic rewrites.
+
+Our core idea:
+
+> Separate conceptually before separating physically.
+
+Not every product needs microservices from day one.
+
+But every serious product needs clear boundaries, explicit decisions, technical contracts, observability, and an evolution path.
+
+---
+
+## Licenses
+
+Our projects prioritize open licenses and community collaboration.
+
+| License | Usage |
+|---|---|
+| **MIT** | Open and reusable source code |
+| **Creative Commons** | Documentation, guides, and technical content |
+| **Open Source** | Transparency, collaboration, and shared learning |
+
+---
+
+## Technical Areas
 
 ### Backend
-- 🟦 **.NET Core / ASP.NET** - Enterprise-grade backend
-- 🟢 **Node.js / NestJS** - Scalable JavaScript runtime
-- 🦀 **Rust** - Performance & safety
+
+- .NET / ASP.NET Core
+- Node.js / NestJS
+- TypeScript
+- Hexagonal Architecture
+- Clean Architecture
+- Pragmatic DDD
 
 ### Frontend
-- ⚛️ **React** - UI component library
-- 🔵 **Vue.js** - Progressive framework
-- ⏭️ **Next.js** - Full-stack React
 
-### Cloud & DevOps
-- ☁️ **Microsoft Azure** - Enterprise cloud
-- 🌥️ **AWS** - Global infrastructure
-- 🐳 **Docker & Kubernetes** - Container orchestration
+- React
+- Next.js
+- Vue.js
+- Vite
+- Design Systems
 
-### AI & Emerging Tech
-- 🤖 **LangChain** - AI application framework
-- 🧠 **Semantic Kernel** - AI orchestration
-- 🚀 **OpenAI / Gemini** - Cutting-edge models
-- 🔬 **GitHub Copilot** - AI-powered development
+### DevOps and Platform
 
----
+- Docker
+- Kubernetes
+- GitHub Actions
+- Observability
+- CI/CD
+- Infrastructure as Code
 
-## 🤝 How to Contribute
+### AI Engineering
 
-1. **Fork** the repository you're interested in
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add amazing feature'`
-4. Push to your branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request describing your changes
-6. Wait for review and merging! 🎉
-
----
-
-## 📋 Code of Conduct
-
-We commit to providing a safe, inclusive, and respectful environment:
-- ✅ Be kind and respectful
-- ✅ Keep dialogue constructive
-- ✅ Accept criticism positively
-- ❌ Zero discrimination or harassment
+- OpenAI
+- Semantic Kernel
+- LangChain
+- MCP
+- AI-assisted SDLC
+- Agentic Engineering
 
 ---
 
-## 👥 Sister Organizations
+## How to Contribute
 
-We're part of a larger innovation ecosystem:
+You can contribute in several ways:
 
-| Organization | Focus | GitHub |
-|--------------|-------|--------|
-| 🟦 **C# SandBox Code** | .NET & C# Laboratory | [@csdevlib](https://github.com/csdevlib) |
-| 🟢 **JS SandBox Code** | JavaScript/TypeScript Sandbox | [@jsdevlib](https://github.com/jsdevlib) |
-| 🚀 **NestJS Latam** | Latin American NestJS Community | [@nestjslatam](https://www.nestjslatam.dev) |
+1. Review technical documentation.
+2. Propose architectural improvements.
+3. Open issues with gaps or inconsistencies.
+4. Send Pull Requests.
+5. Improve code examples.
+6. Add tests or architecture fitness functions.
+7. Help with English and Spanish translations.
 
----
+Main repositories:
 
-## 👨‍💼 Founder & Architect
-
-### Principal Software Architect
-
-**Expertise:**
-- 🏗️ **Enterprise Architecture** - SOLID, DDD, Clean Architecture
-- 🔧 **Backend** - .NET, Node.js, NestJS, ASP.NET
-- 🎨 **Frontend** - React, Next.js, Angular, Vue.js
-- ☁️ **Cloud** - Azure, AWS, Docker, Kubernetes
-- 🤖 **AI/ML** - LangChain, Semantic Kernel, GPT-4
-
-**20+ years** of experience in software engineering, leading teams of 30+ engineers and managing budgets of $1M+.
-
-**Contact:** [GitHub Profile](https://github.com/beyondnetPeru) | [Email](mailto:beyondnet.peru@gmail.com)
+- ARC32 Progressive Monolith: https://github.com/beyondnetcode/arc32_progresive_monolith
+- UMS: https://github.com/beyondnetcode/ums
 
 ---
 
-## 📚 Resources
+## Useful Links
 
-- 📖 **Documentation** - Detailed guides for our projects
-- 🎓 **Tutorials** - Step-by-step to get started
-- 💡 **Best Practices** - Patterns and conventions
-- 🔗 **API References** - Complete technical documentation
-
----
-
-## 📞 Contact
-
-- 📧 **Email:** beyondnet.peru@gmail.com
-- 🐙 **GitHub:** [@beyondnetcode](https://github.com/beyondnetcode)
-- 🌐 **Website:** [Coming Soon]
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/orgs/beyondnetcode/discussions)
+| Resource | Link |
+|---|---|
+| GitHub Organization | https://github.com/beyondnetcode |
+| ARC32 Progressive Monolith | https://github.com/beyondnetcode/arc32_progresive_monolith |
+| UMS | https://github.com/beyondnetcode/ums |
+| Founder Profile | https://github.com/beyondnetPeru |
+| C# Sandbox Code | https://github.com/csdevlib |
+| Discussions | Coming soon |
 
 ---
 
-## ⭐ Featured Contributors
+## Founder
 
-*Want to see your name here?*
+**Alberto Arroyo Raygada**  
+Principal Software Architect
 
-Contribute to any of our projects and become part of the global community.
+Experience in:
+
+- Enterprise architecture
+- System modernization
+- Modular monoliths
+- Microservices
+- DDD and Clean Architecture
+- DevOps and Cloud
+- AI-assisted engineering
+
+Contact:
+
+- GitHub: https://github.com/beyondnetPeru
+- Email: beyondnet.peru@gmail.com
 
 ---
 
-## 📊 Statistics
+## Community Status
+
 ```text
-🔨 Tech Stack:    15+ Languages & Frameworks
-📦 Projects:      10+ Active Repositories
-👥 Community:     Growing Global Network
-🌍 Reach:         Open Source & MIT Licensed
+Technical focus: Modern architecture and open source
+Projects: Technical references and architecture laboratories
+Reach: Global community in English and Spanish
+License: Open Source / MIT
+```
+
+---
+
+## Invitation
+
+BeyondNet Code is open to software architects, tech leads, backend engineers, platform engineers, DevOps professionals, QA engineers, security engineers, and technical writers who want to collaborate on open technical references.
+
+Software architecture improves when it is discussed, documented, tested, and validated in community.
+
+Welcome to BeyondNet Code.
