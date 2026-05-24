@@ -1,6 +1,7 @@
 <div align="center">
+  <!-- Logo Placeholder: Insert a clean, monochromatic corporate logo here -->
   <h1>BeyondNet Tech</h1>
-  <p><em>Ingeniería de Software Orientada a la Producción & Open Source</em></p>
+  <p><em>Production-Oriented Software Engineering & Open Source</em></p>
   
   [![Website](https://img.shields.io/badge/Website-BeyondNet-black?style=flat-square)](#)
   [![Packages](https://img.shields.io/badge/Packages-npm_%7C_NuGet-blue?style=flat-square)](#)
@@ -8,28 +9,28 @@
 
 ---
 
-### 🎥 Sobre la Organización
-Somos un espacio dedicado a la creación de software con estándares empresariales y rigor técnico. Nuestro enfoque es simple: arquitectura limpia, código escalable y documentación accesible. Construimos paquetes y herramientas para la comunidad Open Source que están probados y listos para salir a producción.
+### 🎥 About the Organization
+We are a space dedicated to creating software with enterprise standards and technical rigor. Our focus is simple: clean architecture, scalable code, and accessible documentation. We build packages and tools for the Open Source community that are tested and production-ready.
 
-### 🛠 El Set de Producción (Tech Stack)
-> *El núcleo de nuestras operaciones, desarrollo y despliegues automáticos.*
-- **Ecosistemas:** .NET (C#), Node.js, JavaScript/TypeScript
-- **Distribución de Paquetes:** npm, NuGet
-- **Infraestructura & CI/CD:** GitHub Actions, Docker
+### 🛠 The Production Set (Tech Stack)
+> *The core of our operations, development, and automated deployments.*
+- **Ecosystems:** .NET (C#), Node.js, JavaScript/TypeScript
+- **Package Distribution:** npm, NuGet
+- **Infrastructure & CI/CD:** GitHub Actions, Docker
 
 ### 📼 Featured Productions
 | Project / Package | Description | Production Status |
 | :--- | :--- | :--- |
-| **[Evolith](#)** | [Short, high-impact description of what Evolith does]. | ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square) |
-| **[UMS](#)** | [Short, high-impact description of what UMS does]. | ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square) |
+| **[Evolith](#)** | Scalable enterprise framework designed for high-performance application development. | ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square) |
+| **[UMS](#)** | Comprehensive management system built for modern, secure, and distributed architectures. | ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square) |
 
-### 📖 Backstage: Documentación y Open Source
-Creemos que el buen código debe estar respaldado por una gran narrativa técnica. Si deseas integrar nuestras soluciones o colaborar, revisa la documentación de nuestro set:
-* [Guía de Contribución (CONTRIBUTING.md)](#)
-* [Estándares de Arquitectura](#)
-* [Licencias y Uso (MIT)](#)
+### 📖 Backstage: Documentation & Open Source
+We believe that good code must be backed by a great technical narrative. If you want to integrate our solutions or collaborate, check out our set documentation:
+* [Contributing Guide (CONTRIBUTING.md)](#)
+* [Architecture Standards](#)
+* [Licenses and Use (MIT)](#)
 
 ---
 <div align="center">
-  <p>Producido y mantenido por <b>Alberto Arroyo Raygada</b></p>
+  <p>Produced and maintained by <b>Alberto Arroyo Raygada</b></p>
 </div>
