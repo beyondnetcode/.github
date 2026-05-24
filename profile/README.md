@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Logo Placeholder: Insert a clean, monochromatic corporate logo here -->
-  <h1>BeyondNet Tech</h1>
+  <h1>BeyondNet Code</h1>
   <p><em>Production-Oriented Software Engineering & Open Source</em></p>
   
   [![Website](https://img.shields.io/badge/Website-BeyondNet-black?style=flat-square)](#)
@@ -23,11 +23,12 @@ We are a space dedicated to creating software with enterprise standards and tech
 | :--- | :--- | :--- |
 | **[Evolith](#)** | Scalable enterprise framework designed for high-performance application development. | ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square) |
 | **[UMS](#)** | Comprehensive management system built for modern, secure, and distributed architectures. | ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square) |
+| **[Why Architecture](https://github.com/beyondnetcode/why-architecture)** | Foundational manifesto and technical guidelines for designing robust software architectures. | ![Docs](https://img.shields.io/badge/docs-published-blue?style=flat-square) |
 
 ### 📖 Backstage: Documentation & Open Source
 We believe that good code must be backed by a great technical narrative. If you want to integrate our solutions or collaborate, check out our set documentation:
 * [Contributing Guide (CONTRIBUTING.md)](#)
-* [Architecture Standards](#)
+* [Architecture Standards](https://github.com/beyondnetcode/why-architecture)
 * [Licenses and Use (MIT)](#)
 
 ---
