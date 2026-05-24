@@ -42,9 +42,9 @@ We invite you to explore and contribute to our core initiatives:
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/beyondnetcode/wyarchitecture" style="text-decoration:none;">🏗️ WyArchitecture</a></h3>
+      <h3><a href="https://github.com/beyondnetcode/why-architecture" style="text-decoration:none;">🏗️ Why-Architecture</a></h3>
       <p>A comprehensive architectural blueprint designed for highly scalable enterprise systems. It provides robust patterns and foundational code to bootstrap resilient microservices with ease.</p>
-      <a href="https://github.com/beyondnetcode/wyarchitecture"><img src="https://img.shields.io/badge/Explore-WyArchitecture-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore WyArchitecture"/></a>
+      <a href="https://github.com/beyondnetcode/why-architecture"><img src="https://img.shields.io/badge/Explore-WhyArchitecture-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Why-Architecture"/></a>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/beyondnetcode/evolith" style="text-decoration:none;">🧬 Evolith</a></h3>
@@ -70,4 +70,6 @@ We invite you to explore and contribute to our core initiatives:
 <br/>
 
 <div align="center">
-  <p><i>"Code goes beyond syntax; it is the architecture of the future. Join us in building it
+  <p><i>"Code goes beyond syntax; it is the architecture of the future. Join us in building it."</i></p>
+  <p><b>Led by <a href="https://github.com/beyondnetPeru">Alberto Arroyo Raygada (a.k.a BeyondNet)</a> & The Open Source Community</b></p>
+</div>
