@@ -17,9 +17,9 @@
 BeyondNet Tech is more than a repository collection; it is a collaborative tech company and community hub. We focus on engineering excellence, providing the global community with production-ready blueprints, foundational libraries, and innovative AI adaptations for modern software development.
 
 Our core pillars are:
-- **Enterprise Architecture:** Promoting robust paradigms like Domain-Driven Design (DDD), Clean Architecture, CQRS, and Event-Driven distributed systems.
-- **Artificial Intelligence:** Adapting Generative AI, LLMs, and multi-agent orchestrators (like Semantic Kernel and LangChain) into real-world enterprise ecosystems.
-- **Open Source Community:** Democratizing technical knowledge, lowering the barrier to entry for complex system design, and providing tools that developers can use to scale their own projects.
+- **Architectural Excellence:** Forging resilient, highly scalable foundations. We design software ecosystems built to endure, adapt, and perform at the highest level of enterprise demands without compromising structural integrity.
+- **Cognitive Integration:** Orchestrating the synergy between human engineering and machine intelligence. We seamlessly embed advanced cognitive capabilities and autonomous workflows into the very DNA of real-world applications.
+- **Community Empowerment:** Democratizing elite engineering knowledge. We break down the technical barriers of complex system design, providing the global developer community with the blueprints and tools needed to scale their own visionary projects.
 
 ---
 
@@ -70,6 +70,4 @@ We invite you to explore and contribute to our core initiatives:
 <br/>
 
 <div align="center">
-  <p><i>"Code goes beyond syntax; it is the architecture of the future. Join us in building it."</i></p>
-  <p><b>Led by <a href="https://github.com/beyondnetPeru">Alberto Arroyo Raygada (a.k.a BeyondNet)</a> & The Open Source Community</b></p>
-</div>
+  <p><i>"Code goes beyond syntax; it is the architecture of the future. Join us in building it
