@@ -28,7 +28,7 @@ We work especially around:
 
 | Project | Description | Link |
 |---|---|---|
-| **ARC32 Progressive Monolith** | Open reference for building evolutionary products, from simple monoliths to modular monoliths and sustainable microservices. | https://github.com/beyondnetcode/arc32_progresive_monolith |
+| **Evolith** | Enterprise progressive architecture platform — the authoritative reference for evolving products from Modular Monoliths to distributed systems, governed and AI-assisted by design. | https://github.com/beyondnetcode/evolith_arch32 |
 | **UMS** | Reference system for user management, identity, authorization, and multi-tenant governance. | https://github.com/beyondnetcode/ums |
 
 ---
@@ -112,7 +112,7 @@ You can contribute in several ways:
 
 Main repositories:
 
-- ARC32 Progressive Monolith: https://github.com/beyondnetcode/arc32_progresive_monolith
+- Evolith: https://github.com/beyondnetcode/evolith_arch32
 - UMS: https://github.com/beyondnetcode/ums
 
 ---
@@ -122,7 +122,7 @@ Main repositories:
 | Resource | Link |
 |---|---|
 | GitHub Organization | https://github.com/beyondnetcode |
-| ARC32 Progressive Monolith | https://github.com/beyondnetcode/arc32_progresive_monolith |
+| Evolith | https://github.com/beyondnetcode/evolith_arch32 |
 | UMS | https://github.com/beyondnetcode/ums |
 | Founder Profile | https://github.com/beyondnetPeru |
 | C# Sandbox Code | https://github.com/csdevlib |
