@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>BeyondNet Code</h1>
+  <h1>BeyondNet Tech</h1>
   <p><em>Ingeniería de Software Orientada a la Producción & Open Source</em></p>
   
   [![Website](https://img.shields.io/badge/Website-BeyondNet-black?style=flat-square)](#)
