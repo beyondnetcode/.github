@@ -47,9 +47,9 @@ We invite you to explore and contribute to our core initiatives:
       <a href="https://github.com/beyondnetcode/why-architecture"><img src="https://img.shields.io/badge/Explore-WhyArchitecture-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Why-Architecture"/></a>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/beyondnetcode/evolith" style="text-decoration:none;">🧬 Evolith</a></h3>
+      <h3><a href="https://github.com/beyondnetcode/evolith_arch32" style="text-decoration:none;">🧬 Evolith</a></h3>
       <p>An innovative project focused on system evolution and data management. Evolith aims to simplify complex data transformations and event-driven data flows in distributed environments.</p>
-      <a href="https://github.com/beyondnetcode/evolith"><img src="https://img.shields.io/badge/Explore-Evolith-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Evolith"/></a>
+      <a href="https://github.com/beyondnetcode/evolith_arch32"><img src="https://img.shields.io/badge/Explore-Evolith-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Evolith"/></a>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/beyondnetcode/ums" style="text-decoration:none;">👤 UMS</a></h3>
