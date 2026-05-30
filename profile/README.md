@@ -36,25 +36,31 @@ We are actively looking for collaborators in:
 
 ---
 
-## 🌟 Our Flagship Projects
-We invite you to explore and contribute to our core initiatives:
+## 🌟 Our Flagship Projects & Open Source Libraries
+We invite you to explore and contribute to our core initiatives, architectural blueprints, and reusable open-source libraries:
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3><a href="https://github.com/beyondnetcode/why-architecture" style="text-decoration:none;">🏗️ Why-Architecture</a></h3>
       <p>A comprehensive architectural blueprint designed for highly scalable enterprise systems. It provides robust patterns and foundational code to bootstrap resilient microservices with ease.</p>
       <a href="https://github.com/beyondnetcode/why-architecture"><img src="https://img.shields.io/badge/Explore-WhyArchitecture-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Why-Architecture"/></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3><a href="https://github.com/beyondnetcode/evolith_arch32" style="text-decoration:none;">🧬 Evolith</a></h3>
       <p>An innovative project focused on system evolution and data management. Evolith aims to simplify complex data transformations and event-driven data flows in distributed environments.</p>
       <a href="https://github.com/beyondnetcode/evolith_arch32"><img src="https://img.shields.io/badge/Explore-Evolith-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Evolith"/></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3><a href="https://github.com/beyondnetcode/ums" style="text-decoration:none;">👤 UMS</a></h3>
       <p>The User Management System (UMS) provides a secure, flexible, and ready-to-deploy microservice for handling identities, authentication, and authorization using modern security protocols.</p>
       <a href="https://github.com/beyondnetcode/ums"><img src="https://img.shields.io/badge/Explore-UMS-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore UMS"/></a>
+    </td>
+    <td width="25%" valign="top">
+      <h3><a href="https://github.com/orgs/beyondnetcode/repositories?q=Shell" style="text-decoration:none;">🧩 Shell Libraries</a></h3>
+      <p>A growing family of production-oriented open-source libraries for .NET and JavaScript, promoting clean architecture, extensibility, automation, and reusable engineering patterns.</p>
+      <p><b>Includes:</b> Shell.Aop, Shell.Bootstrapper, Shell.Factory, and Shell.DDD.</p>
+      <a href="https://github.com/orgs/beyondnetcode/repositories?q=Shell"><img src="https://img.shields.io/badge/Explore-Shell%20Libraries-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Shell Libraries"/></a>
     </td>
   </tr>
 </table>
