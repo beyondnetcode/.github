@@ -41,7 +41,7 @@ We invite you to explore and contribute to our core initiatives, architectural b
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/beyondnetcode/evolith_arch32/main/reference/governance/sdlc/assets/master-view.png" title="Evolith E2E Product Vision — click to enlarge">
-    <img src="https://raw.githubusercontent.com/beyondnetcode/evolith_arch32/main/reference/governance/sdlc/assets/master-view.png"
+    <img src="https://raw.githubusercontent.com/beyondnetcode/evolith_arch32/main/reference/governance/sdlc/assets/master-view-annotated.png"
          alt="Evolith E2E Product Vision"
          width="780"
          style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
