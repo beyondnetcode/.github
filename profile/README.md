@@ -39,24 +39,41 @@ We are actively looking for collaborators in:
 ## 🌟 Our Flagship Projects & Open Source Libraries
 We invite you to explore and contribute to our core initiatives, architectural blueprints, and reusable open-source libraries:
 
+<div align="center">
+  <a href="https://raw.githubusercontent.com/beyondnetcode/evolith_arch32/main/reference/governance/sdlc/assets/master-view.png" title="Evolith E2E Product Vision — click to enlarge">
+    <img src="https://raw.githubusercontent.com/beyondnetcode/evolith_arch32/main/reference/governance/sdlc/assets/master-view.png"
+         alt="Evolith E2E Product Vision"
+         width="780"
+         style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  </a>
+  <br/><sub>↑ Evolith E2E Product Vision · MD3 — <i>click to enlarge</i></sub>
+</div>
+
+<br/>
+
 <table width="100%">
   <tr>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <h3><a href="https://github.com/beyondnetcode/why-architecture" style="text-decoration:none;">🏗️ Why-Architecture</a></h3>
       <p>A comprehensive architectural blueprint designed for highly scalable enterprise systems. It provides robust patterns and foundational code to bootstrap resilient microservices with ease.</p>
       <a href="https://github.com/beyondnetcode/why-architecture"><img src="https://img.shields.io/badge/Explore-WhyArchitecture-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Why-Architecture"/></a>
     </td>
-    <td width="25%" valign="top">
-      <h3><a href="https://github.com/beyondnetcode/evolith_arch32" style="text-decoration:none;">🧬 Evolith</a></h3>
-      <p>An innovative project focused on system evolution and data management. Evolith aims to simplify complex data transformations and event-driven data flows in distributed environments.</p>
-      <a href="https://github.com/beyondnetcode/evolith_arch32"><img src="https://img.shields.io/badge/Explore-Evolith-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Evolith"/></a>
+    <td width="20%" valign="top">
+      <h3><a href="https://github.com/beyondnetcode/evolith_arch32" style="text-decoration:none;">🧬 evOLITH</a></h3>
+      <p>The corporate architecture upstream for product repositories. Defines reusable architecture standards, governance rules, ADRs, canonical patterns, and AI-augmented engineering guidance that satellite products inherit and specialize.</p>
+      <a href="https://github.com/beyondnetcode/evolith_arch32"><img src="https://img.shields.io/badge/Explore-evOLITH-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore evOLITH"/></a>
     </td>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
+      <h3><a href="https://github.com/beyondnetcode/evolith_tracker" style="text-decoration:none;">📊 yTRACKER</a></h3>
+      <p>An end-to-end tracking system for the Evolith SDLC workflow. Manages the entire lifecycle from ideation to deployment — capturing requirements, code iterations, quality gates, and deployment pipelines with full traceability.</p>
+      <a href="https://github.com/beyondnetcode/evolith_tracker"><img src="https://img.shields.io/badge/Explore-yTRACKER-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore yTRACKER"/></a>
+    </td>
+    <td width="20%" valign="top">
       <h3><a href="https://github.com/beyondnetcode/ums" style="text-decoration:none;">👤 UMS</a></h3>
       <p>The User Management System (UMS) provides a secure, flexible, and ready-to-deploy microservice for handling identities, authentication, and authorization using modern security protocols.</p>
       <a href="https://github.com/beyondnetcode/ums"><img src="https://img.shields.io/badge/Explore-UMS-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore UMS"/></a>
     </td>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <h3><a href="https://github.com/orgs/beyondnetcode/repositories?q=Shell" style="text-decoration:none;">🧩 Shell Libraries</a></h3>
       <p>A growing family of production-oriented open-source libraries for .NET and JavaScript, promoting clean architecture, extensibility, automation, and reusable engineering patterns.</p>
       <p><b>Includes:</b> Shell.Aop, Shell.Bootstrapper, Shell.Factory, and Shell.DDD.</p>
