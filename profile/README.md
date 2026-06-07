@@ -59,14 +59,14 @@ We invite you to explore and contribute to our core initiatives, architectural b
       <a href="https://github.com/beyondnetcode/why-architecture"><img src="https://img.shields.io/badge/Explore-WhyArchitecture-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Why-Architecture"/></a>
     </td>
     <td width="20%" valign="top">
-      <h3><a href="https://github.com/beyondnetcode/evolith_arch32" style="text-decoration:none;">🧬 evOLITH</a></h3>
+      <h3><a href="https://github.com/beyondnetcode/evolith_arch32" style="text-decoration:none;">🧬 Evolith Core</a></h3>
       <p>The corporate architecture upstream for product repositories. Defines reusable architecture standards, governance rules, ADRs, canonical patterns, and AI-augmented engineering guidance that satellite products inherit and specialize.</p>
-      <a href="https://github.com/beyondnetcode/evolith_arch32"><img src="https://img.shields.io/badge/Explore-evOLITH-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore evOLITH"/></a>
+      <a href="https://github.com/beyondnetcode/evolith_arch32"><img src="https://img.shields.io/badge/Explore-Evolith%20Core-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Evolith Core"/></a>
     </td>
     <td width="20%" valign="top">
-      <h3><a href="https://github.com/beyondnetcode/evolith_tracker" style="text-decoration:none;">📊 yTRACKER</a></h3>
+      <h3><a href="https://github.com/beyondnetcode/evolith_tracker" style="text-decoration:none;">📊 Evolith Tracker</a></h3>
       <p>An end-to-end tracking system for the Evolith SDLC workflow. Manages the entire lifecycle from ideation to deployment — capturing requirements, code iterations, quality gates, and deployment pipelines with full traceability.</p>
-      <a href="https://github.com/beyondnetcode/evolith_tracker"><img src="https://img.shields.io/badge/Explore-yTRACKER-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore yTRACKER"/></a>
+      <a href="https://github.com/beyondnetcode/evolith_tracker"><img src="https://img.shields.io/badge/Explore-Evolith%20Tracker-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Evolith Tracker"/></a>
     </td>
     <td width="20%" valign="top">
       <h3><a href="https://github.com/beyondnetcode/ums" style="text-decoration:none;">👤 UMS</a></h3>
