@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <h3>🚀 Building the future of intelligent, scalable, and open-source software.</h3>
+  <h3> Building the future of intelligent, scalable, and open-source software.</h3>
   <p>
     Welcome to <b>BeyondNet Tech</b>, an organization dedicated to creating, promoting, and maintaining high-quality open-source software. We bridge the gap between rigorous enterprise architecture and the limitless possibilities of Artificial Intelligence.
   </p>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌍 Who We Are
+## Who We Are
 BeyondNet Tech is more than a repository collection; it is a collaborative tech company and community hub. We focus on engineering excellence, providing the global community with production-ready blueprints, foundational libraries, and innovative AI adaptations for modern software development.
 
 Our core pillars are:
@@ -23,7 +23,7 @@ Our core pillars are:
 
 ---
 
-## 🤝 Why Collaborate With Us?
+## Why Collaborate With Us?
 We believe that the best software is built together. In our vision, open-source is like the set of a major audiovisual production: it requires the combined talent of cinematographers, sound engineers, lighting technicians, and editors working in perfect sync to achieve a masterpiece.
 
 Whether you are a junior developer looking for your first open-source PR, or a seasoned architect wanting to debate complex distributed systems, **there is a place for you here.**
@@ -36,7 +36,7 @@ We are actively looking for collaborators in:
 
 ---
 
-## 🌟 Our Flagship Projects & Open Source Libraries
+## Our Flagship Projects & Open Source Libraries
 We invite you to explore and contribute to our core initiatives, architectural blueprints, and reusable open-source libraries:
 
 <div align="center">
@@ -54,27 +54,27 @@ We invite you to explore and contribute to our core initiatives, architectural b
 <table width="100%">
   <tr>
     <td width="20%" valign="top">
-      <h3><a href="https://github.com/beyondnetcode/why-architecture" style="text-decoration:none;">🏗️ Why-Architecture</a></h3>
+      <h3><a href="https://github.com/beyondnetcode/why-architecture" style="text-decoration:none;"> Why-Architecture</a></h3>
       <p>A comprehensive architectural blueprint designed for highly scalable enterprise systems. It provides robust patterns and foundational code to bootstrap resilient microservices with ease.</p>
       <a href="https://github.com/beyondnetcode/why-architecture"><img src="https://img.shields.io/badge/Explore-WhyArchitecture-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Why-Architecture"/></a>
     </td>
     <td width="20%" valign="top">
-      <h3><a href="https://github.com/beyondnetcode/evolith_arch32" style="text-decoration:none;">🧬 Evolith Core</a></h3>
+      <h3><a href="https://github.com/beyondnetcode/evolith_arch32" style="text-decoration:none;"> Evolith Core</a></h3>
       <p>The corporate architecture upstream for product repositories. Defines reusable architecture standards, governance rules, ADRs, canonical patterns, and AI-augmented engineering guidance that satellite products inherit and specialize.</p>
       <a href="https://github.com/beyondnetcode/evolith_arch32"><img src="https://img.shields.io/badge/Explore-Evolith%20Core-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Evolith Core"/></a>
     </td>
     <td width="20%" valign="top">
-      <h3><a href="https://github.com/beyondnetcode/evolith_tracker" style="text-decoration:none;">📊 Evolith Tracker</a></h3>
+      <h3><a href="https://github.com/beyondnetcode/evolith_tracker" style="text-decoration:none;"> Evolith Tracker</a></h3>
       <p>An end-to-end tracking system for the Evolith SDLC workflow. Manages the entire lifecycle from ideation to deployment — capturing requirements, code iterations, quality gates, and deployment pipelines with full traceability.</p>
       <a href="https://github.com/beyondnetcode/evolith_tracker"><img src="https://img.shields.io/badge/Explore-Evolith%20Tracker-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Evolith Tracker"/></a>
     </td>
     <td width="20%" valign="top">
-      <h3><a href="https://github.com/beyondnetcode/ums" style="text-decoration:none;">👤 UMS</a></h3>
+      <h3><a href="https://github.com/beyondnetcode/ums" style="text-decoration:none;"> UMS</a></h3>
       <p>The User Management System (UMS) provides a secure, flexible, and ready-to-deploy microservice for handling identities, authentication, and authorization using modern security protocols.</p>
       <a href="https://github.com/beyondnetcode/ums"><img src="https://img.shields.io/badge/Explore-UMS-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore UMS"/></a>
     </td>
     <td width="20%" valign="top">
-      <h3><a href="https://github.com/orgs/beyondnetcode/repositories?q=Shell" style="text-decoration:none;">🧩 Shell Libraries</a></h3>
+      <h3><a href="https://github.com/orgs/beyondnetcode/repositories?q=Shell" style="text-decoration:none;"> Shell Libraries</a></h3>
       <p>A growing family of production-oriented open-source libraries for .NET and JavaScript, promoting clean architecture, extensibility, automation, and reusable engineering patterns.</p>
       <p><b>Includes:</b> Shell.Aop, Shell.Bootstrapper, Shell.Factory, and Shell.DDD.</p>
       <a href="https://github.com/orgs/beyondnetcode/repositories?q=Shell"><img src="https://img.shields.io/badge/Explore-Shell%20Libraries-D4AF37?style=flat-square&logo=github&logoColor=white" alt="Explore Shell Libraries"/></a>
@@ -84,7 +84,7 @@ We invite you to explore and contribute to our core initiatives, architectural b
 
 ---
 
-## 🛠️ How to Get Started
+## How to Get Started
 1. **Explore our Repositories:** Click the links in our Flagship Projects section above to find a codebase that aligns with your passion.
 2. **Find an Issue:** Look for issues tagged with `good first issue`, `help wanted`, or `enhancement`.
 3. **Fork & PR:** Fork the repository, create your feature branch, follow our clean code guidelines, and submit a Pull Request.
